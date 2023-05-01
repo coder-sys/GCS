@@ -16,7 +16,6 @@ function AppHome() {
       <AppFeature/>
       <AppWorks/>
       <AppFaq/>
-      <AppPricing/>
       <AppContact/>
     </div>
   );

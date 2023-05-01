@@ -6,8 +6,8 @@ import { Carousel } from 'antd';
 const items = [
   {
     key: '1',
-    title: 'Web and mobile payment built for developers',
-    content: 'Our innovative web and mobile payment solutions make transactions fast, secure, and effortless for both you and your customers. Say goodbye to the hassle of traditional payment methods and embrace the future of seamless payments.',
+    title: 'Bringing cleanlness to your doorstep',
+    content: 'We are a business in the Prosper, TX area that aims to provide the best and cost friendly cleaning services for customers',
   },
   {
     key: '2',

@@ -24,7 +24,7 @@ function AppFeature() {
               hoverable
               cover={<img alt="Modern Design" src={image1} />}
             >
-              <Meta title="Modern Design" />
+              <Meta title="Outdoor Only Window Cleaning" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
@@ -32,7 +32,7 @@ function AppFeature() {
               hoverable
               cover={<img alt="Test" src={image2} />}
             >
-              <Meta title="Clean and Elegant" />
+              <Meta title="Both Sides of Windows" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
@@ -40,23 +40,24 @@ function AppFeature() {
               hoverable
               cover={<img alt="Test" src={image3} />}
             >
-              <Meta title="Great Support" />
+              <Meta title="Lawn Moving" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
-            <Card
+           <a href=""> <Card
               hoverable
               cover={<img alt="Test" src={image4} />}
             >
-              <Meta title="Easy to customise" />
+              <Meta title="Mulching" />
             </Card>
+            </a>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             <Card
               hoverable
               cover={<img alt="Test" src={image5} />}
             >
-              <Meta title="Unlimited Features" />
+              <Meta title="Leaf Cleaning" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>

@@ -6,20 +6,20 @@ const items = [
   {
     key: '1',
     icon: <i className="fas fa-chart-pie"></i>,
-    title: 'High Performance',
-    content: 'Elevate your game with high-performance technology. Enjoy seamless, efficient and powerful experiences.',
+    title: 'Car Detailing',
+    content: 'Unleash the hidden shine of your vehicle with our meticulous car detailing.',
   },
   {
     key: '2',
     icon: <i className="fas fa-desktop"></i>,
-    title: 'Flat Design',
-    content: 'Simplify your aesthetic with flat design. Clean, modern, and minimal design elements for a fresh look.',
+    title: 'Decorative Concrete Design',
+    content: 'Unlock the beauty within your concrete with our artistic touch.',
   },
   {
     key: '3',
     icon: <i className="fas fa-database"></i>,
-    title: 'Simplified Workflow',
-    content: 'Streamline your work with our intuitive and efficient workflow solution. Get more done, faster and with ease.',
+    title: 'Trash Can Cleaning',
+    content: 'Transforming trash-ridden spaces into pristine paradises, one cleanup at a time.',
   },
 ]
 
@@ -31,7 +31,9 @@ function AppAbout() {
           <h2>About Us</h2>
         </div>
         <div className="contentHolder">
-          <p>Technology has revolutionized the way we live and work, providing us with new and innovative ways to solve problems, improve efficiency, and make our lives easier. From artificial intelligence to cloud computing, the rapid advancements in technology are changing the way we interact with the world around us. As we continue to push the boundaries of what is possible, we can expect new and exciting developments that will further shape the future of our world. Whether it's in healthcare, education, or any other industry, technology has the power to make a positive impact and create a better future for all of us. </p>
+          <p>Looking for convenient and reliable services in Prosper, Mustang Lakes or Light Farms? Look no further! Our top-notch services are now available to you on weekdays from 4PM-6PM, and on weekends and summer break from 8AM-7PM. We understand that you have a busy schedule, which is why we are flexible and available during hours that work best for you. To schedule a time and place that suits your needs, simply give us a call at 4699200475. Let us take care of your needs, so you can enjoy your free time stress-free!
+
+</p>
         </div>
         <Row gutter={[16, 16]}>   
           {items.map(item => {
